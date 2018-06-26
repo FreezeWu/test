@@ -46,6 +46,6 @@ string facename = "Tahoma"
 string text = "none"
 end type
 
-event clicked;//abc
+event clicked;//123
 end event
 
